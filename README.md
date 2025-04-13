@@ -13,13 +13,13 @@ A Node.js/Express server for querying Nigeria's Corporate Affairs Commission (CA
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/auspicious14/Verify-cac.git
+git clone https://github.com/auspicious14/cac-verification-server.git
 ```
 
 2. Install dependencies:
 
 ````bash
-cd Verify-cac
+cd cac-verification-server
 npm install
 
 3. Build and run the server:
